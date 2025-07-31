@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p154460-e1678495.adobeaemcloud.com/bin/franklin.delivery/angelnationvision/xwalk/main"
+    url: "https://author-p154460-e1678495.adobeaemcloud.com/bin/franklin.delivery/angelnationvision/rde-poc-xwalk/main"
     type: "markup"
     suffix: ".html"
